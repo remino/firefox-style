@@ -1,4 +1,4 @@
-@import url('./browser/hide-unused-close-buttons.css');
-@import url('./browser/sliding-bookmarks-bar.css');
-@import url('./browser/top-customization-footer.css');
-@import url('./browser/top-findbar.css');
+@import url('./userChrome/hide-unused-close-buttons.css');
+@import url('./userChrome/sliding-bookmarks-bar.css');
+@import url('./userChrome/top-customization-footer.css');
+@import url('./userChrome/top-findbar.css');
